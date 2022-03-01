@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Answers for the free-men fleshers of Edinburgh to the petition presented to His Majesties high commissioner, and the honourable estates of Parliament by Alexander Milne and VVilliam Lauson, Andrew Brown, Archibald Douglass, Janet Carse relict of umquhile, Thomas VVright, fleshers of the said burgh, against them.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08382</idno>
+            <idno type="STC">Wing A3467A_VARIANT</idno>
+            <idno type="STC">ESTC R491258</idno>
+            <idno type="EEBO-CITATION">61296854</idno>
+            <idno type="OCLC">ocm 61296854</idno>
+            <idno type="VID">180449</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08382)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180449)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2829:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Answers for the free-men fleshers of Edinburgh to the petition presented to His Majesties high commissioner, and the honourable estates of Parliament by Alexander Milne and VVilliam Lauson, Andrew Brown, Archibald Douglass, Janet Carse relict of umquhile, Thomas VVright, fleshers of the said burgh, against them.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>ca. 1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: pages creased with slight loss of print.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Butchers --  Scotland --  Edinburgh --  History --  Sources.</term>
+               <term>Meat industry and trade --  Scotland --  Edinburgh --  History --  Sources.</term>
+               <term>Meat industry and trade --  Law and legislation --  Scotland --  Edinburgh --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:180449:1"/>
+            <pb n="1" facs="tcp:180449:1"/>
+            <head>
+               <hi>ANSWERS</hi> For the Free-men Fleſhers of <hi>Edinburgh,</hi> to the Petition preſented to His Majeſties high Commiſſioner, and the Honourable Estates of Parliament, by <hi>Alexander Milne</hi> and <hi>VVilliam Lauſon, Andrew Brown, Archibald Douglaſs, Janet Carſe</hi> Relict of <g ref="char:V">Ʋ</g>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>quhile <hi>Thomas VVright</hi> Fleſhers of the ſaid Burgh, againſt them.</head>
+            <p>THe Incorporation of Fleſhers was Eſtabliſhed by a Seal of Cauſe in their Favors granted by the Magiſtrats of <hi>Edinburgh,</hi> above two hundred Years ago, and continued in the Exerciſe and Poſſesſion of the Liber<g ref="char:EOLhyphen"/>ties and Priviledges thereby granted to them ever ſince that time, as well as a<g ref="char:EOLhyphen"/>ny Incorporation of the ſaid Burgh, and obtained theſe Priviledges particular<g ref="char:EOLhyphen"/>ly eſtabliſhed, againſt the Invaſions and Incroachments made upon them by the Un-free-men of the ſaid Burgh, after hearing of both Parties; by an De<g ref="char:EOLhyphen"/>creet of Council, dated the ſeventh day of <hi>June,</hi> 1595 years, under the Hand of Mr. <hi>John Skeene</hi> Clerk Regiſter, as the ſamen herewith produced bears. And ſicklike by an Act of the Magiſtrats and Town Council of <hi>Edinburgh,</hi> dated the 20 of <hi>Auguſt,</hi> 1656 years, the ſundry Priviledges, mentioned in the ſeveral Acts therein ſpecified, are of new Ratified and Approven to them, and ordained to be made uſe of by the ſaids Free-men Fleſhers, in all time co<g ref="char:EOLhyphen"/>ming; and particularly that the Un-free-men Fleſhers in Burgh and Land<g ref="char:EOLhyphen"/>ward only ſell their Fleſh in open Mercat upon the Mercat Days, either by whole Carcaſſes, or at leaſt Quarters, and no otherwiſe: All which Privi<g ref="char:EOLhyphen"/>ledges are Ratified in the Parliament 1681, As alſo by Decreet of the Lords of Privy Council, dated the twentieth ſixth day of <hi>November,</hi> 1685. The Un-free-men Fleſhers are expreſly diſcharged to bring in, or hang any Beef, or o<g ref="char:EOLhyphen"/>ther Fleſh in the Fleſh Mercat of <hi>Edinburgh,</hi> but upon the three common Weekly Mercat Days, and reſerved the point of Right to be diſſcuſſed by the Lords of Sesſion, as the ſaid Decreet bears; all which Priviledges are again Ratified by Act of Parliament, dated the fifteenth day of <hi>June,</hi> 1693 years: and particularly the foreſaid Act of the Town Council, in <hi>anno</hi> 1656, where it is ſtatute and ordained, that the whole Un-free-men Fleſhers, keep only three Mercat Days in the Week, <hi>viz. Tueſday, Thurſday</hi> and <hi>Saturnday,</hi> as the ſaid Ratification likewiſe beart.</p>
+            <pb n="2" facs="tcp:180449:2" rendition="simple:additions"/>
+            <p>The Free-men Fleſhers of <hi>Edinburgh</hi> being thus founded by the Seal of Cauſe, and other particular Rights above-mentioned, it is humbly conceived their ſaids Rights cannot be ſummarily taken away by a Petition, but the ſamen are on<g ref="char:EOLhyphen"/>ly competent to be quarrelled of reduced before the Judge Ordinary, as the privat Rights of particular Parties, or Incorporations and Societies are in uſe to be. <hi>Secundo,</hi> If this Method be allowed of, to quarrel the Incorporation of Fle<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ers, then all the Incorporations within the ſeveral Burghs of <hi>Scotland,</hi> may <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e brought in queſtion that ſame way: And as it would be thought, both a Novelty and great In<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ment upon the Liberties and Priviledges of the Burghs Royal, to have the Rights and Priviledges of their ſeveral Incorpora<g ref="char:EOLhyphen"/>tions brought in queſtion, and infringed by extranious Perſons; So it is hoped, His Majeſties High Commiſſioner and Honourable Eſtates of Parliament, will not open ſuch a Door, by ſummarily deſtroying the Priviledges of the Free-men Fleſhers, and thereby breaking their Incorporation. <hi>Tortio,</hi> The Act of the Town Council of <hi>Edinburgh,</hi> founded upon in the Petition, can no ways be Relevant to infer the Concluſion and Deſire, in favours of the Un-free Fleſhers, in reſpect: <hi>Prinio,</hi> It is evident, the ſamen has never been intended for a perpetual Rule or ſtanding Law in the Burgh, being only an Article ſubjoyned to a Table of Pryces for Butcher-meat, Wild-fowl, and other Vi<g ref="char:EOLhyphen"/>vers, made by the Magiſtrats of <hi>Edinburgh</hi> for the year 1688, and which be<g ref="char:EOLhyphen"/>ing only made for one year, and by the conſtant Cuſtom altered yearly, ac<g ref="char:EOLhyphen"/>cording to the ſcarcity or plenty of the ſaid kind of Vivers: That Article could be of no more laſting or dureable Force, than the other Articles ſubjoyn<g ref="char:EOLhyphen"/>ed to that Table of pryces: and as it were abſurd to pretend now, that the Wine ſhould be ſold at eighteen <hi>ſhill. per Pynt,</hi> as it is appointed there, ſo it is no leſs abſurd, to pretend that the Article about the Unfree-men Fleſhers ſhould be of perpetual Continuance. <hi>Secundo;</hi> There being an Act of Parliament made a little before that time, appointing Fleſh to be ſold by Weight, the Magiſtrats of <hi>Edinburgh,</hi> for bringing the Fleſhers to the Obedience of that Act of Parliament, did indulge the Unfree-men to ſell by Weight upon all days of the week, to the effect they might conſtrain the Free-men Fleſhers to Ob<g ref="char:EOLhyphen"/>ſerve the foreſaid Act of Parliament more readily: But that Act of Parliament falling in deſuetude, and proving in practicable, and the Unfree Fleſhers being the firſt that left off to ſell their Fleſh by weight, upon pretence of their be<g ref="char:EOLhyphen"/>ing reſtricted to ſell Carcaſſes, or at leaſt Quarters. There was no rea<g ref="char:EOLhyphen"/>ſon they ſhould enjoy that Article, as a perpetual Right which they had only been indulged the favour of for a particular time, for Ends and Cauſes they had never anſwered nor obſerved. In Conſideration where<g ref="char:EOLhyphen"/>of, the Magiſtrats of <hi>Edinburgh,</hi> by their Act dated the <hi>4th.</hi> of <hi>September,</hi> 1689 years, did of new again reſtrict the Unfree-men to the ſaid three Mercat-days, conform to the Gifts and Priviledges conceived in favours of the Free-men, as the Act herewith produced will teſtifie. <hi>Quarto,</hi> It were a great prejudice, not only to the particular Incorporation of Free-men Fleſhers within the Town of <hi>Edinburgh,</hi> to admit the Unfree-men to the equal Privi<g ref="char:EOLhyphen"/>ledges with the Free-men, but alſo to the whole other Incorporations and Land-Lords within the ſamen, in reſpect, if this Incorporation be broken, and no diſtinction be made betwixt Free men and Unfree-men, then the Free-men can never bear Scot and Lot of the Burgh, but their Proportions of Ceſſes, and all other publick Burdens which they did bear within Burgh, muſt neceſſarily fall
+<pb n="3" facs="tcp:180449:2"/>upon the other Incorporations and Land-lords, to the great prejudice of the Burgh, which it is hoped, His Majeſties High Commiſſioner, and the Eſtates of Parliament does no ways intend, for gratifieing only two or three obſcure in<g ref="char:EOLhyphen"/>conſiderable Perſons, who preſumptouſly aſſume the general Deſignation of Un-free-men; and albeit three or four of the Petitioners have had the preſumption to give in the Petition in Name of the Un-free-men in general, yet the Ge<g ref="char:EOLhyphen"/>nerality and underſtanding Men of that Number, conſidering how much it would tend to the prejudice of the Inhabitants of the Burgh, have for moſt pregnant Reaſons diſclaimed the foreſaid Complaint, and taken Inſtruments a<g ref="char:EOLhyphen"/>gainſt the turbulent Movers thereof, as an Extract of the Inſtruments, here pre<g ref="char:EOLhyphen"/>ſent to ſhow bears. <hi>Quinto,</hi> The Magiſtrats of <hi>Edinburgh</hi> can eaſily rectifie any Abuſes, that the Free-men Fleſhers may happen to Commit, and accor<g ref="char:EOLhyphen"/>dingly every year, with Concurrence of the Lords of Seſſion, do ſet Rates upon, and Rules for the Sale of all kinds of Vivers within Burgh: But they can no ways be anſwerable for Un-free-men, who are not ſubject to their Juriſdictions. And farder, His Majeſties High Commiſſioner, and Eſtates of Parliament are humbly intreated to take into their Conſideration, of what Evil Conſequence this pretended Advantage would be, by tollerating Un-free-men, as is deman<g ref="char:EOLhyphen"/>ded in their Groundleſs Petition, for beſides what is above Repreſented, which makes the Freedom of Incorporation as ſecure as Law can make it, yet if Un-free-men were tollerat to come in ſix days in the Week, then they may Combine amongſt themſelves to keep up their Fleſhes from ſale one day, un<g ref="char:EOLhyphen"/>leſs they get what Pryces they pleaſe, becauſe they know they can expoſe it the immediate next day thereafter, and ſo have advantage over the Inha<g ref="char:EOLhyphen"/>bitants. Whereas, when they are reſtricted to three days in the week, they are obliged to ſell at a reaſonable Rate, becauſe Fleſhes will not keep uncor<g ref="char:EOLhyphen"/>rupted until an other Mercat Day: And beſides that, it is preſumed, that the Country Fleſhers would rather ſell at eaſie Rates, than to carry back their Fleſhes to the Country again, and they are in no worſe condition than the Free-men are, for the Free-men are reſtricted from coming to the <hi>Land-mer<g ref="char:EOLhyphen"/>cat,</hi> except upon the ſame days that are already allowed to Un-free-men.</p>
+            <p>And whereas it is pretended, that the giving a toleration to Un-free-men, would hinder the Free-men to exact Exorbitant Prices. It is Anſwered, that three days being allowed to Countrey Fleſhers, the Inhabitants may eaſily pro<g ref="char:EOLhyphen"/>vide themſelves in one day, as much as may ſerve them two: And if the Free-men ſhould offer to exact greater Rates than the Un-free-men, then they would ruine themſelves, and their Fleſhes would ly un-ſold, and before another Mer<g ref="char:EOLhyphen"/>cat day, would be unfit to be preſented to a Mercat. And as to the preſent Dearth, it is unqueſtionably known to the Honourable Court of Parliament that the ſame is occaſioned by the bad Seaſon only.</p>
+            <p>And laſtly, If the Freedom of the Incorporation ſhould be incroached upon, and Infringed, then this evil doth inevitably follow, as it hath done in for<g ref="char:EOLhyphen"/>mer times; that the Free-mens Servants do thereupon quite their Service, and look upon themſelves to be as free as their Maſters, and go to the Countrey, and in their Maſters Names, do buy Beſtial from Gentlemen and other Perſons, and Butcher the ſamine themſelves, without ever paying theſe from whom they buy them: So that it may be ſaid with confidence, that the Countrey hath ſu<g ref="char:EOLhyphen"/>ſtained thereby the loſs upwards of Fourty thouſand Pounds, within theſe few Years: And that is not the only loſs, but ſeveral others of the Un-free-men do
+<pb n="4" facs="tcp:180449:3"/>buy at the Fourth Hand, and ſo conſequently muſt ſell at dearer Rates than the Free-men. By all which the Incorporation is abuſed, and are deprived of Servants, for ſerving the Leidges; which is occaſioned by the countenancing and tolerating Unfree-men.</p>
+            <p>And if the Un-free-men Fleſhers found upon an Act of the Privy Council, in the year 1687. &amp; ſhall produce the ſame, no Reſpect ought to be had to that Act. 1. Becauſe it is given <hi>parte in audita,</hi> and without either Complaint or Pro<g ref="char:EOLhyphen"/>bation, at the inſtance of any Party, of any Abuſes or Malverſations done or committed by the Free-men Fleſhers 2. This Act was ſoliſted for, and Im<g ref="char:EOLhyphen"/>petrat by <hi>Joſias Johnſtoun,</hi> upon particular Grudge againſt the Free-men Fleſh<g ref="char:EOLhyphen"/>ers, and he obtained it as a Gratification to him for his converſion to the <hi>Ro<g ref="char:EOLhyphen"/>miſh Religion.</hi> 3. This Act was a Deed of the Abſolute Power, in the late Arbitrary Times, infringing the Priviledges of the City of <hi>Edinburgh,</hi> and met with the leſs Oppoſition that the Magiſtrats themſelves were created by the ſame Power, which had ſwallowed up the hail Rights and Priviledges of the Magiſtrats of Royal Burghs, ſo that it was no marvel that they incroached upon one ſingle Incorporation: and ſeing, by the late Revolution, and His Ma<g ref="char:EOLhyphen"/>jeſties gracious Favour, the Rights and Liberties of the Subject, and parti<g ref="char:EOLhyphen"/>cularly of the Burghs Royal have been reſtored and recovered: It is hoped and expected from the Juſtice of the High Court of Parliament, that the Incorpora<g ref="char:EOLhyphen"/>tion of the Free-men Fleſhers ſhall be preſerved in their Rights and Priviledges and Freed from any Invaſions made upon them, in the late Arbitrary time, and not have their privat Right taken from them without any ſpecial Cauſe libel<g ref="char:EOLhyphen"/>led: but only on the Clamour and Importunity of three or four Invidious and malicious Neighbours: And it is evident by the very Act it ſelf, that all that was deſigned for them, was the Land-Mercat, that being the ſeparat place for the Landward Fleſhers, and it is notourly knowen that there never was, more than three Fleſh mercat days in that place.</p>
+            <p>In Reſpect whereof, it is hoped, His Majeſties High Commisſioner, and Honourable Eſtates of Parliament, will not cut off the Rights and Priviledges of ſo ancient an Incorporation, who is the Tenth Deaconry of the Burgh of <hi>Edinburgh,</hi> conform to the Sett and Decreet Arbitral, pro<g ref="char:EOLhyphen"/>nounced by King <hi>James</hi> the Sixth: But on the contrary, will be pleaſed to reject the deſire of the foreſaid groundleſs Petition; and of new again, to Ratifie and Confirm the Rights and Freedom of the Incorporation, as formerly was done, both in this Current Parliament, and others preceeding.</p>
+            <pb facs="tcp:180449:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
